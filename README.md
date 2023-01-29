@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1 align="center" >Привет! 👋</h1>
 
 <p align="center" >
  <a href="https://github.com/DiniFarb/codewars_readme_stats">
-   <img src="https://github.r2v.ch/codewars?user=uneconomicuse&name=true&top_languages=true" />
+   <img src="https://github.r2v.ch/codewars?user=uneconomicuse&name=false&top_languages=true&theme=purple_dark" />
  </a>
 </p>
 
