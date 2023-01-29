@@ -1,10 +1,6 @@
 <h1 align="center" >Привет! 👋</h1>
 
-<p align="center" >
- <a href="https://github.com/DiniFarb/codewars_readme_stats">
-   <img src="https://github.r2v.ch/codewars?user=uneconomicuse&name=false&top_languages=true&theme=purple_dark" />
- </a>
-</p>
+
 
 <!--
 **uneconomicuse/uneconomicuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center" >
+ <a href="https://github.com/DiniFarb/codewars_readme_stats">
+   <img src="https://github.r2v.ch/codewars?user=uneconomicuse&name=false&top_languages=true&theme=purple_dark" />
+ </a>
+</p>
+
 -->
