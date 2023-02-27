@@ -1,6 +1,8 @@
 <h1 align="center" >Привет!👋 Меня зовут Роман, я занимаюсь ручным (80%) и автоматическим (20%) тестированием. Вот немного моих проектов:</h1>
 
 <h2>Проекты</h2>
+<h3>Тестирование API:<h3>
+<h4>Postman<h4>
 <h3>Автотесты:<h3>
 <h4>🎭 Playwright <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/></h4>
 <a href="https://github.com/uneconomicuse/plw-books-magazine-test">Автотесты для Books Magazine<a/> - <span>В процессе</span>
