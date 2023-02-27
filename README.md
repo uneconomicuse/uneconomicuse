@@ -1,5 +1,18 @@
-<h1 align="center" >Привет! 👋</h1>
+<h1 align="center" >Привет!👋 Меня зовут Роман, я занимаюсь ручным (80%) и автоматическим (20%) тестированием. Вот немного моих проектов:</h1>
 
+<h2>Проекты</h2>
+<h3>Автотесты:<h3>
+<h4>🎭 Playwright <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/></h4>
+<a href="https://github.com/uneconomicuse/plw-books-magazine-test">Автотесты для Books Magazine<a/> - <span>В процессе</span>
+<h4>Selenium</h4>
+ 
+<h4>Selenide</h4>
+ 
+<h3>Нагрузочные тесты:</h3>
+<h4>Gatling</h4>
+<h4>k6 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/></h4>
+
+ <h2>✨Codewars✨</h2>
 <p align="center" >
  <a href="https://github.com/DiniFarb/codewars_readme_stats">
    <img src="https://github.r2v.ch/codewars?user=uneconomicuse&name=false&top_languages=true&theme=purple_dark" />
